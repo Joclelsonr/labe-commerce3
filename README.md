@@ -2,7 +2,7 @@
 
 link do surge: https://splendid-oil.surge.sh
 
-**Trabalharam neste projeto:** Daniel Andrade, Igor Castro e Joclelson Rodrigues.
+**Trabalharam neste projeto:** Joclelson Rodrigues, Igor Castro e Daniel Andrade.
 
 **Proposta:**  Montar um e-commerce de camisetas com estampas divertidas relacionadas ao espaço.
 
